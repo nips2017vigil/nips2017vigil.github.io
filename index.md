@@ -1,7 +1,5 @@
 ---
-layout: page
-title: Index
-permalink: /index/
+layout: default
 ---
 
 ## Welcome to GitHub Pages
