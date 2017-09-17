@@ -88,7 +88,7 @@ Florian Strub, University of Lille, Inria
 
 [Stefan Lee](https://www.cc.gatech.edu/~slee3191), Georgia Tech
 
-[Mateusz Malinowski](https://www.mateuszmalinowski.com), Google DeepMind
+[Mateusz Malinowski](http://www.mateuszmalinowski.com), Google DeepMind
 
 [Olivier Pietquin](http://www.lifl.fr/~pietquin/), Google DeepMind
 
