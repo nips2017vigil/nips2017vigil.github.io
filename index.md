@@ -88,7 +88,7 @@ Florian Strub, University of Lille, Inria
 
 [Stefan Lee](https://www.cc.gatech.edu/~slee3191), Georgia Tech
 
-Mateusz Malinowski, Google DeepMind
+[Mateusz Malinowski](www.mateuszmalinowski.com), Google DeepMind
 
 [Olivier Pietquin](http://www.lifl.fr/~pietquin/), Google DeepMind
 
@@ -98,4 +98,4 @@ Mateusz Malinowski, Google DeepMind
 
 [Aaron Courville](https://mila.quebec/en/person/aaron-courville/), University of Montreal
 
-Jeremie Mary, Criteo
+[Jeremie Mary](http://www.grappa.univ-lille3.fr/~mary/), Criteo
