@@ -78,24 +78,24 @@ This workshop aims to gather people from backgrounds in machine learning, comput
 
 ## Organizers
 
-Florian Strub
+Florian Strub, University of Lille, Inria
 
-[Harm de Vries](http://www-etud.iro.umontreal.ca/~devries/)
+[Harm de Vries](http://www-etud.iro.umontreal.ca/~devries/), University of Montreal
 
-[Abhishek Das](https://abhishekdas.com)
+[Abhishek Das](https://abhishekdas.com), Georgia Tech
 
-[Satwik Kottur](https://satwikkottur.github.io/)
+[Satwik Kottur](https://satwikkottur.github.io/), Carnegie Mellon University
 
-[Stefan Lee](https://www.cc.gatech.edu/~slee3191)
+[Stefan Lee](https://www.cc.gatech.edu/~slee3191), Georgia Tech
 
-Mateusz Malinowski
+Mateusz Malinowski, Google DeepMind
 
-[Olivier Pietquin](http://www.lifl.fr/~pietquin/)
+[Olivier Pietquin](http://www.lifl.fr/~pietquin/), Google DeepMind
 
-[Devi Parikh](http://www.cc.gatech.edu/~parikh/)
+[Devi Parikh](http://www.cc.gatech.edu/~parikh/), Georgia Tech &amp; Facebook AI Research
 
-[Dhruv Batra](http://www.cc.gatech.edu/~dbatra/)
+[Dhruv Batra](http://www.cc.gatech.edu/~dbatra/), Georgia Tech &amp; Facebook AI Research
 
-[Aaron Courville](https://mila.quebec/en/person/aaron-courville/)
+[Aaron Courville](https://mila.quebec/en/person/aaron-courville/), University of Montreal
 
-Jeremie Mary
+Jeremie Mary, Criteo
