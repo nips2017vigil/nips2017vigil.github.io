@@ -3,7 +3,7 @@ layout: default
 ---
 
 ## Introduction
-Among the most important aspects of many multimodal tasks, such as Visual Dialogue [2,5], Physical Interactions [7,8,9], or Visual Question Answering [3,4], is the grounding problem that seeks the ‘meaning’ by connecting ‘meaningless symbols with meaningless symbols in another modality’. Due to the recent interest in Visual Dialogue, Physical Interactions and Visual Question Answering problems, and to foster further research in the aforementioned fields, we organize the ”Visually grounded interaction and language” workshop. 
+Among the most important aspects of many multimodal tasks, such as Visual Dialogue [2,5], Physical Interactions [7,8,9], or Visual Question Answering [3,4], is the grounding problem that seeks the ``meaning`` by connecting ``meaningless symbols with meaningless symbols in another modality``. Due to the recent interest in Visual Dialogue, Physical Interactions and Visual Question Answering problems, and to foster further research in the aforementioned fields, we organize the ”Visually grounded interaction and language” workshop. 
 
 As the grounding problem requires an interdisciplinary attitude, this workshop aims to gather researchers from various backgrounds in machine learning, computer vision, language, neuroscience and psychology, who are excited about this space of grounding and interactions, and are willing to share ideas from their work and perspectives on future directions. 
 
