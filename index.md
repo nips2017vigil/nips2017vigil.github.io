@@ -3,7 +3,21 @@ layout: default
 ---
 
 ## Introduction
+Among the most important aspects of many multimodal tasks, such as Visual Dialogue [2], Physical Interactions [7,8,9], or Visual Question Answering [3,4], is the grounding problem that seeks the ‘meaning’ by connecting ‘meaningless symbols with meaningless symbols in another modality’. Due to the recent interest in Visual Dialogue, Physical Interactions and Visual Question Answering problems, and to foster further research in the aforementioned fields, we organize the ”Visually grounded interaction and language” workshop. 
 
+As the grounding problem requires an interdisciplinary attitude, this workshop aims to gather researchers from various backgrounds in machine learning, computer vision, language, neuroscience and psychology, who are excited about this space of grounding and interactions, and are willing to share ideas from their work and perspectives on future directions. 
+
+## Invited Speakers
+
+(To be announced)
+
+## Important Dates
+
+3rd November 2017: Submission deadline
+
+10th November 2017: Acceptance notification
+
+## Detailed Description
 Statistical language models learned from text-only corpuses form the dominant paradigm in modern natural language understanding. Many popular models of this type (including GloVe and word2vec) are distributional, i.e. the "meaning" of words is based only on their co-occurence patterns with other words in similar context. While effective for many applications, these text-only distributional approaches suffer from limited semantics as they miss the interactive environment in which communication often takes place, i.e., its symbols are not grounded. This limitation was first highlighted with the symbol grounding problem: "meaningless symbols (i.e. words) cannot be grounded in anything but other meaningless symbols" [16].
 
 Humans, on the other hand, acquire and learn language by communicating about and interacting with the visual environment. This behavior provides the necessary grounding of physical concepts in words. To this end, several recent works study grounded language-learning tasks, e.g. grounding in natural images (ReferIt [1], GuessWhat?! [2], Visual Question Answering [3,4], Visual Dialog [5], Captioning [6]) or grounding in a physically-simulated environment (DeepMind Lab [7], Baidu XWorld [8], OpenAI Universe [9]). We believe this line of research is more suited for human-machine collaboration than unimodal approaches that ignore the grounding aspect.
@@ -14,6 +28,31 @@ Research in understanding human behavior provides yet another perspective in bui
 
 This workshop aims to gather people from backgrounds in machine learning, computer vision, language, neuroscience and psychology, who are excited about this space of grounding and interaction, and are willing to share ideas from their work and perspectives on future directions.
 
+## Organizers
+
+Florian Strub, University of Lille, Inria
+
+[Harm de Vries](http://www-etud.iro.umontreal.ca/~devries/), University of Montreal
+
+[Abhishek Das](https://abhishekdas.com), Georgia Tech
+
+[Satwik Kottur](https://satwikkottur.github.io/), Carnegie Mellon University
+
+[Stefan Lee](https://www.cc.gatech.edu/~slee3191), Georgia Tech
+
+[Mateusz Malinowski](http://www.mateuszmalinowski.com), Google DeepMind
+
+[Olivier Pietquin](http://www.lifl.fr/~pietquin/), Google DeepMind
+
+[Devi Parikh](http://www.cc.gatech.edu/~parikh/), Georgia Tech &amp; Facebook AI Research
+
+[Dhruv Batra](http://www.cc.gatech.edu/~dbatra/), Georgia Tech &amp; Facebook AI Research
+
+[Aaron Courville](https://mila.quebec/en/person/aaron-courville/), University of Montreal
+
+[Jeremie Mary](http://www.grappa.univ-lille3.fr/~mary/), Criteo
+
+## References
 <div class="small">
     <ol>
         <li>Kazemzadeh, Sahar, et al. "ReferIt Game: Referring to Objects in Photographs of Natural Scenes." EMNLP. 2014.</li>
@@ -65,37 +104,3 @@ This workshop aims to gather people from backgrounds in machine learning, comput
         </li>
     </ol>
 </div>
-
-## Invited Speakers
-
-(To be announced)
-
-## Important Dates
-
-3rd November 2017: Submission deadline
-
-10th November 2017: Acceptance notification
-
-## Organizers
-
-Florian Strub, University of Lille, Inria
-
-[Harm de Vries](http://www-etud.iro.umontreal.ca/~devries/), University of Montreal
-
-[Abhishek Das](https://abhishekdas.com), Georgia Tech
-
-[Satwik Kottur](https://satwikkottur.github.io/), Carnegie Mellon University
-
-[Stefan Lee](https://www.cc.gatech.edu/~slee3191), Georgia Tech
-
-[Mateusz Malinowski](http://www.mateuszmalinowski.com), Google DeepMind
-
-[Olivier Pietquin](http://www.lifl.fr/~pietquin/), Google DeepMind
-
-[Devi Parikh](http://www.cc.gatech.edu/~parikh/), Georgia Tech &amp; Facebook AI Research
-
-[Dhruv Batra](http://www.cc.gatech.edu/~dbatra/), Georgia Tech &amp; Facebook AI Research
-
-[Aaron Courville](https://mila.quebec/en/person/aaron-courville/), University of Montreal
-
-[Jeremie Mary](http://www.grappa.univ-lille3.fr/~mary/), Criteo
