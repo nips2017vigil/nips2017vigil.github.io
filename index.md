@@ -5,7 +5,7 @@ layout: default
 ## Introduction
 Among the most important aspects of many multimodal tasks -- such as Visual Dialogue, Physical Interactions, or Visual Question Answering -- is the grounding problem that seeks the "meaning" by connecting meaningless symbols with meaningless symbols in another domain.  
 
-As the grounding problem requires an interdisciplinary attitude, this workshop aims to gather researchers with broad expertise in various fields -- machine learning, computer vision, natural language, neuroscience and psychology -- and who are excited about this space of grounding and interactions, and who are willing to share their current work or perspectives on future directions. 
+As the grounding problem requires an interdisciplinary attitude, this workshop aims to gather researchers with broad expertise in various fields -- machine learning, computer vision, natural language, neuroscience, and psychology -- and who are excited about this space of grounding and interactions, and who are willing to share their current work or perspectives on future directions. 
 
 ## Invited Speakers
 
@@ -26,7 +26,7 @@ From a modeling perspective, deep learning approaches are promising for groundin
 
 Research in understanding human behavior provides yet another perspective in building models capable of grounded language-learning. In cognitive science, recent progress in fMRI enables us to create a semantic atlas of the cerebral cortex [13] or to learn to decode semantic information from visual input [14]. In one study, psychologists followed blind children and show that they are not linguistically deficient. Despite the lack of visual stimuli, blind children manage to use visual concepts such as colors or visual verbs ("see" or "look") [15] and circumvent their visual impairment through unique strategies [17].
 
-This workshop aims to gather people from backgrounds in machine learning, computer vision, language, neuroscience and psychology, who are excited about this space of grounding and interaction, and are willing to share ideas from their work and perspectives on future directions.
+This workshop aims to gather people from backgrounds in machine learning, computer vision, natural language, neuroscience, and psychology, who are excited about this space of grounding and interaction, and are willing to share ideas from their work and perspectives on future directions.
 
 ## Organizers
 
