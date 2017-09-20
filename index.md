@@ -70,13 +70,13 @@ Florian Strub, University of Lille, Inria
             Rohrbach, Anna, et. al. "Generating Descriptions with Grounded and Co-Referenced People." CVPR. 2017.
         </li>
         <li>
-            "DeepMind Lab. <a href="https://deepmind.com/blog/open-sourcing-deepmind-lab/">https://deepmind.com/blog/open-sourcing-deepmind-lab/</a>
+            Beattie, Charles, et. al. <a href="https://deepmind.com/blog/open-sourcing-deepmind-lab/">"DeepMind Lab."</a> 2016.
         </li>
         <li>
             Yu, Haonan, et al. "A Deep Compositional Framework for Human-like Language Acquisition in Virtual Environment." arXiv preprint arXiv:1703.09831. 2017.
         </li>
         <li>
-            "OpenAI Universe." https://universe.openai.com/
+            OpenAI. <a href="https://universe.openai.com/">"Universe."</a> 2016. 
         </li>
         <li>
             Strub, Florian, et al. "End-to-end optimization of goal-driven and visually grounded dialogue systems." IJCAI. 2017.
