@@ -53,7 +53,7 @@ Florian Strub, University of Lille, Inria
 [Jeremie Mary](http://www.grappa.univ-lille3.fr/~mary/), Criteo
 
 ## References
-<div class="small">
+<div>
     <ol>
         <li>Kazemzadeh, Sahar, et al. "ReferIt Game: Referring to Objects in Photographs of Natural Scenes." EMNLP. 2014.</li>
         <li>de Vries, Harm, et al. "GuessWhat?! Visual object discovery through multi-modal dialogue." CVPR. 2017.</li>
