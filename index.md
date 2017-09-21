@@ -19,6 +19,7 @@ As the grounding problem requires an interdisciplinary attitude, this workshop a
         Her main research interests are 2D and 3D object detection, particularly 
         scalable multi-class detection, object segmentation and image labeling, 
         and (3D) scene understanding.
+        She is also interested in the interplay between language and vision: generating sentential descriptions about complex scenes, as well as using textual descriptions for better scene parsing (e.g., in the scenario of the human-robot interaction).
         <a href='http://www.cs.utoronto.ca/~fidler/'>[Webpage]</a>
         </th>
     </tr>
