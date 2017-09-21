@@ -3,9 +3,10 @@ layout: default
 ---
 
 ## Introduction
-Among the most important aspects of many multimodal tasks -- such as Visual Dialogue, Physical Interactions, or Visual Question Answering -- is the grounding problem that seeks the "meaning" by connecting meaningless symbols with meaningless symbols in another domain.  
+<div style="text-align: justify">
+<p>Among the most important aspects of many multimodal tasks -- such as Visual Dialogue, Physical Interactions, or Visual Question Answering -- is the grounding problem that seeks the "meaning" by connecting meaningless symbols with meaningless symbols in another domain.</p>
 
-As the grounding problem requires an interdisciplinary attitude, this workshop aims to gather researchers with broad expertise in various fields -- machine learning, computer vision, natural language, neuroscience, and psychology -- and who are excited about this space of grounding and interactions, and who are willing to share their current work or perspectives on future directions. 
+<p>As the grounding problem requires an interdisciplinary attitude, this workshop aims to gather researchers with broad expertise in various fields -- machine learning, computer vision, natural language, neuroscience, and psychology -- and who are excited about this space of grounding and interactions, and who are willing to share their current work or perspectives on future directions.</p></div>
 
 ## Invited Speakers
 
@@ -102,39 +103,88 @@ As the grounding problem requires an interdisciplinary attitude, this workshop a
 10th November 2017: Acceptance notification
 
 ## Detailed Description
-Statistical language models learned from text-only corpuses form the dominant paradigm in modern natural language understanding. Many popular models of this type (including GloVe and word2vec) are distributional, i.e. the "meaning" of words is based only on their co-occurence patterns with other words in similar context. While effective for many applications, these text-only distributional approaches suffer from limited semantics as they miss the interactive environment in which communication often takes place, i.e., its symbols are not grounded. This limitation was first highlighted with the symbol grounding problem: "meaningless symbols (i.e. words) cannot be grounded in anything but other meaningless symbols" [16].
 
-Humans, on the other hand, acquire and learn language by communicating about and interacting with the visual environment. This behavior provides the necessary grounding of physical concepts in words. To this end, several recent works study grounded language-learning tasks, e.g. grounding in natural images (ReferIt [1], GuessWhat?! [2], Visual Question Answering [3,4], Visual Dialog [5], Captioning [6]) or grounding in a physically-simulated environment (DeepMind Lab [7], Baidu XWorld [8], OpenAI Universe [9]). We believe this line of research is more suited for human-machine collaboration than unimodal approaches that ignore the grounding aspect.
+<div style="text-align: justify">
+<p>Statistical language models learned from text-only corpuses form the dominant paradigm in modern natural language understanding. Many popular models of this type (including GloVe and word2vec) are distributional, i.e. the "meaning" of words is based only on their co-occurence patterns with other words in similar context. While effective for many applications, these text-only distributional approaches suffer from limited semantics as they miss the interactive environment in which communication often takes place, i.e., its symbols are not grounded. This limitation was first highlighted with the symbol grounding problem: "meaningless symbols (i.e. words) cannot be grounded in anything but other meaningless symbols" [16].</p>
 
-From a modeling perspective, deep learning approaches are promising for grounding because they are capable of learning high-level semantics from low-level sensory data in both computer vision and language. Subsequently, deep learning turns out to be an efficient tool for fusing different modalities into a single representation [3,4]. In addition, as grounded language acquisition requires to interact with an external environment, reinforcement learning provides an elegant framework to cover the planning aspect of visually grounded dialogue as well as other goal-oriented tasks. There has been some recent effort on combining deep learning and reinforcement learning approaches in various grounding scenarios [10,11,12]. 
+<p>Humans, on the other hand, acquire and learn language by communicating about and interacting with the visual environment. This behavior provides the necessary grounding of physical concepts in words. To this end, several recent works study grounded language-learning tasks, e.g. grounding in natural images (ReferIt [1], GuessWhat?! [2], Visual Question Answering [3,4], Visual Dialog [5], Captioning [6]) or grounding in a physically-simulated environment (DeepMind Lab [7], Baidu XWorld [8], OpenAI Universe [9]). We believe this line of research is more suited for human-machine collaboration than unimodal approaches that ignore the grounding aspect.</p>
 
-Research in understanding human behavior provides yet another perspective in building models capable of grounded language-learning. In cognitive science, recent progress in fMRI enables us to create a semantic atlas of the cerebral cortex [13] or to learn to decode semantic information from visual input [14]. In one study, psychologists followed blind children and show that they are not linguistically deficient. Despite the lack of visual stimuli, blind children manage to use visual concepts such as colors or visual verbs ("see" or "look") [15] and circumvent their visual impairment through unique strategies [17].
+<p>From a modeling perspective, deep learning approaches are promising for grounding because they are capable of learning high-level semantics from low-level sensory data in both computer vision and language. Subsequently, deep learning turns out to be an efficient tool for fusing different modalities into a single representation [3,4]. In addition, as grounded language acquisition requires to interact with an external environment, reinforcement learning provides an elegant framework to cover the planning aspect of visually grounded dialogue as well as other goal-oriented tasks. There has been some recent effort on combining deep learning and reinforcement learning approaches in various grounding scenarios [10,11,12].</p>
 
-This workshop aims to gather people from backgrounds in machine learning, computer vision, natural language, neuroscience, and psychology, who are excited about this space of grounding and interaction, and are willing to share ideas from their work and perspectives on future directions.
+<p>Research in understanding human behavior provides yet another perspective in building models capable of grounded language-learning. In cognitive science, recent progress in fMRI enables us to create a semantic atlas of the cerebral cortex [13] or to learn to decode semantic information from visual input [14]. In one study, psychologists followed blind children and show that they are not linguistically deficient. Despite the lack of visual stimuli, blind children manage to use visual concepts such as colors or visual verbs ("see" or "look") [15] and circumvent their visual impairment through unique strategies [17].</p>
+
+<p>This workshop aims to gather people from backgrounds in machine learning, computer vision, natural language, neuroscience, and psychology, who are excited about this space of grounding and interaction, and are willing to share ideas from their work and perspectives on future directions.</p>
+</div>
 
 ## Organizers
 
-Florian Strub, University of Lille, Inria
-
-[Harm de Vries](http://www-etud.iro.umontreal.ca/~devries/), University of Montreal
-
-[Abhishek Das](https://abhishekdas.com), Georgia Tech
-
-[Satwik Kottur](https://satwikkottur.github.io/), Carnegie Mellon University
-
-[Stefan Lee](https://www.cc.gatech.edu/~slee3191), Georgia Tech
-
-[Mateusz Malinowski](http://www.mateuszmalinowski.com),  DeepMind
-
-[Olivier Pietquin](http://www.lifl.fr/~pietquin/),  DeepMind
-
-[Devi Parikh](http://www.cc.gatech.edu/~parikh/), Georgia Tech &amp; Facebook AI Research
-
-[Dhruv Batra](http://www.cc.gatech.edu/~dbatra/), Georgia Tech &amp; Facebook AI Research
-
-[Aaron Courville](https://mila.quebec/en/person/aaron-courville/), University of Montreal
-
-[Jeremie Mary](http://www.grappa.univ-lille3.fr/~mary/), Criteo
+<table class='organizer-pics-four'>
+    <tr>
+        <th>
+        <img class='im-speaker-pic' src='images/florian-strub-dp.jpeg' alt='florian'>
+        <figcaption><a>Florian Strub</a></figcaption>
+        <figcaption>University of Lille, Inria</figcaption>
+        </th>
+        <th>
+        <img class='im-speaker-pic' src='images/harm-devries-dp.jpg' alt='harm'>
+        <figcaption><a href='http://www-etud.iro.umontreal.ca/~devries/'>Harm de Vries</a></figcaption>
+        <figcaption>University of Montreal</figcaption>
+        </th>
+        <th>
+        <img class='im-speaker-pic' src='images/abhishek-das-dp.jpg' alt='abhishek'>
+        <figcaption><a href='https://abhishekdas.com'>Abhishek Das</a></figcaption>
+        <figcaption>Georgia Tech</figcaption>
+        </th>
+        <th>
+        <img class='im-speaker-pic' src='images/satwik-kottur-dp.jpg' alt='satwik'>
+        <figcaption><a href='https://satwikkottur.github.io/'>Satwik Kottur</a></figcaption>
+        <figcaption>Carnegie Mellon</figcaption>
+        </th>
+    </tr>
+</table>
+<table class='organizer-pics-three'>
+    <tr>
+        <th>
+        <img class='im-speaker-pic' src='images/stefan-lee-dp.png' alt='stefan'>
+        <figcaption><a href='https://www.cc.gatech.edu/~slee3191'>Stefan Lee</a></figcaption>
+        <figcaption>Georgia Tech</figcaption>
+        </th>
+        <th>
+        <img class='im-speaker-pic' src='images/mateusz-malinowski-dp.jpeg' alt='mateusz'>
+        <figcaption><a href='http://www.mateuszmalinowski.com'>Mateusz Malinowski</a></figcaption>
+        <figcaption>DeepMind</figcaption>
+        </th>
+        <th>
+        <img class='im-speaker-pic' src='images/olivier-pietquin-dp.jpg' alt='olivier'>
+        <figcaption><a href='http://www.lifl.fr/~pietquin/'>Olivier Pietquin</a></figcaption>
+        <figcaption>DeepMind</figcaption>
+        </th>
+    </tr>
+</table>
+<table class='organizer-pics-four'>
+    <tr>
+        <th>
+        <img class='im-speaker-pic' src='images/devi-parikh-dp.jpg' alt='devi'>
+        <figcaption><a href='http://www.cc.gatech.edu/~parikh/'>Devi Parikh</a></figcaption>
+        <figcaption>Georgia Tech &amp; Facebook AI Research</figcaption>
+        </th>
+        <th>
+        <img class='im-speaker-pic' src='images/dhruv-batra-dp.jpg' alt='dhruv'>
+        <figcaption><a href='http://www.cc.gatech.edu/~dbatra/'>Dhruv Batra</a></figcaption>
+        <figcaption>Georgia Tech &amp; Facebook AI Research</figcaption>
+        </th>
+        <th>
+        <img class='im-speaker-pic' src='images/aaron-courville-dp.jpg' alt='aaron'>
+        <figcaption><a href='https://mila.quebec/en/person/aaron-courville/'>Aaron Courville</a></figcaption>
+        <figcaption>University of Montreal<br>&nbsp;</figcaption>
+        </th>
+        <th>
+        <img class='im-speaker-pic' src='images/jeremie-mary-dp.jpg' alt='jeremie'>
+        <figcaption><a href='http://www.grappa.univ-lille3.fr/~mary/'>Jeremie Mary</a></figcaption>
+        <figcaption>Criteo<br>&nbsp;</figcaption>
+        </th>
+    </tr>
+</table>
 
 ## References
 <div>
