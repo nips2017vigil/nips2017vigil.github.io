@@ -9,7 +9,12 @@ As the grounding problem requires an interdisciplinary attitude, this workshop a
 
 ## Invited Speakers
 
-(To be announced)
+|<img class='im-speaker-pic' src='images/raymond-mooney-dp.jpg' alt='raymond-mooney'> | **Raymond J. Mooney**    <br>Say couple of sentences about the speaker.|
+|<img class='im-speaker-pic' src='images/sanja-fidler-dp.jpg' alt='sanja-fidler'> | **Sanja Fidler**<br>Say c    ouple of sentences about the speaker.|
+|<img class='im-speaker-pic' src='images/jack-gallant-dp.jpg' alt='jack-gallant'> | **Jack Gallant**<br>Say c    ouple of sentences about the speaker.|
+|<img class='im-speaker-pic' src='images/devi-parikh-dp.jpg' alt='devi-parikh'> | **Devi Parikh**<br>Say coup    le of sentences about the speaker.|
+|<img class='im-speaker-pic' src='images/steve-young-dp.jpg' alt='steve-young'> | **Steve Young**<br>Say coup    le of sentences about the speaker.|
+|<img class='im-speaker-pic' src='images/felix-hill-dp.jpg' alt='felix-hill'> | **Felix Hill**<br>Say couple     of sentences about the speaker.|
 
 ## Important Dates
 
