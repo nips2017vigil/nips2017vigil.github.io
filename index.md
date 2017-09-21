@@ -9,7 +9,91 @@ As the grounding problem requires an interdisciplinary attitude, this workshop a
 
 ## Invited Speakers
 
-(To be announced)
+<table>
+    <tr>
+        <th>
+        <img class='im-speaker-pic' src='images/sanja-fidler-dp.jpg' alt='sanja-fidler'>
+        </th>
+        <th class='speaker-bio'>
+        <b>Sanja Fidler</b> is an Assistant Professor at University of Toronto.
+        Her main research interests are 2D and 3D object detection, particularly 
+        scalable multi-class detection, object segmentation and image labeling, 
+        and (3D) scene understanding.
+        She is also interested in the interplay between language and vision: generating sentential descriptions about complex scenes, as well as using textual descriptions for better scene parsing (e.g., in the scenario of the human-robot interaction).
+        <a href='http://www.cs.utoronto.ca/~fidler/'>[Webpage]</a>
+        </th>
+    </tr>
+    <tr>
+        <th>
+        <img class='im-speaker-pic' src='images/jack-gallant-dp.jpg' alt='jack-gallant'>
+        </th>
+        <th class='speaker-bio'>
+        <b>Jack L. Gallant</b> is a Professor in the Department of Psychology at
+        University of California, Berkeley.
+        The focus of research in his laboratory is on understanding the structure
+        and function of the visual system.
+        <a href='http://psychology.berkeley.edu/people/jack-l-gallant'>[Webpage]</a>
+        </th>
+    </tr>
+    <tr>
+        <th>
+        <img class='im-speaker-pic' src='images/felix-hill-dp.jpg' alt='felix-hill'> 
+        </th>
+        <th class='speaker-bio'>
+        <b>Felix Hill</b> is a Research Scientist at Google DeepMind.
+        He works on models and algorithms for extracting and representing
+        semantic knowledge from text and other naturally occurring data.
+        <a href='https://www.cl.cam.ac.uk/~fh295/'>[Webpage]</a>
+        </th>
+    </tr>
+    <tr>
+        <th>
+        <img class='im-speaker-pic' src='images/raymond-mooney-dp.jpg' alt='raymond-mooney'>
+        </th>
+        <th class='speaker-bio'>
+        <b>Raymond J. Mooney</b> is a Professor of Computer Science at The University of Texas at Austin and leads the Machine Learning Research Group within UT Artificial Intelligence Laboratory.
+        His current focus is on natural language processing / computational linguistics.
+        <a href='https://www.cs.utexas.edu/~mooney/'>[Webpage]</a>
+        </th>
+    </tr>
+    <tr>
+        <th>
+        <img class='im-speaker-pic' src='images/devi-parikh-dp.jpg' alt='devi-parikh'>
+        </th>
+        <th class='speaker-bio'>
+        <b>Devi Parikh</b> is an Assistant Professor in the School of 
+        Interactive Computing at Georgia Tech, and a Research Scientist 
+        at Facebook AI Research (FAIR).
+        Her research interests include computer vision and AI in general
+        and visual recognition problems in particular.
+        <a href='https://www.cc.gatech.edu/~parikh/'>[Webpage]</a>
+        </th>
+    </tr>
+    <tr>
+        <th>
+        <img class='im-speaker-pic' src='images/olivier-pietquin-dp.jpg' alt='olivier-pietquin'>
+        </th>
+        <th class='speaker-bio'>
+        <b>Olivier Pietquin</b> is with Google DeepMind in London. His research interests
+        include spoken dialog systems evaluation, simulation and automatic 
+        optimization, machine learning (especially direct and inverse 
+        reinforcement learning), speech and signal processing.
+        <a href='http://www.lifl.fr/~pietquin/'>[Webpage]</a>
+        </th>
+    </tr>
+    <!-- <tr>
+        <th>
+        <img class='im-speaker-pic' src='images/linda-smith-dp.jpg' alt='linda-smith'>
+        </th>
+        <th class='speaker-bio'>
+        <b>Linda Smith</b> is a Professor at the Department of Pyschological and
+        Brain Sciences at Indiana University Bloomington.
+        Her research is on perceptual and cognitive development in infancy and
+        young children, the development of visual object recognition, word learning.
+        <a href='http://psych.indiana.edu/faculty/smith4.php'>[Webpage]</a>
+        </th>
+    </tr> -->
+</table>
 
 ## Important Dates
 
