@@ -41,7 +41,7 @@ As the grounding problem requires an interdisciplinary attitude, this workshop a
         </th>
         <th class='speaker-bio'>
         <b>Felix Hill</b> is a Research Scientist at Google DeepMind.
-        His work on models and algorithms for extracting and representing
+        He works on models and algorithms for extracting and representing
         semantic knowledge from text and other naturally occurring data.
         <a href='https://www.cl.cam.ac.uk/~fh295/'>[Webpage]</a>
         </th>
@@ -81,7 +81,7 @@ As the grounding problem requires an interdisciplinary attitude, this workshop a
         <a href='http://www.lifl.fr/~pietquin/'>[Webpage]</a>
         </th>
     </tr>
-    <tr>
+    <!-- <tr>
         <th>
         <img class='im-speaker-pic' src='images/linda-smith-dp.jpg' alt='linda-smith'>
         </th>
@@ -92,7 +92,7 @@ As the grounding problem requires an interdisciplinary attitude, this workshop a
         young children, the development of visual object recognition, word learning.
         <a href='http://psych.indiana.edu/faculty/smith4.php'>[Webpage]</a>
         </th>
-    </tr>
+    </tr> -->
 </table>
 
 ## Important Dates
