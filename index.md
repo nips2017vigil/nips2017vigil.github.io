@@ -112,6 +112,8 @@ Unpublished papers are expected to have between 2 and 4 pages excluding referenc
 
 Accepted papers will be made publicly available as a non-archival report, allowing future submissions to archival conferences or journals.
 
+Please submit your paper to the following address: nips2017vigil@gmail.com
+
 ## Detailed Description
 
 <div style="text-align: justify">
