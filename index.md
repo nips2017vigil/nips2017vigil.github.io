@@ -203,9 +203,9 @@ layout: default
 <div>
     <ol>
         <li>Kazemzadeh, Sahar, et al. "ReferIt Game: Referring to Objects in Photographs of Natural Scenes". EMNLP. 2014.</li>
-        <li>de Vries, Harm, et al. "GuessWhat?! Visual object discovery through multi-modal dialogue". CVPR. 2017.</li>
+        <li>de Vries, Harm, et al. "GuessWhat?! Visual Object Discovery through Multi-modal Dialogue". CVPR. 2017.</li>
         <li>
-            Antol, Stanislaw, et al. "VQA: Visual question answering". ICCV. 2015.
+            Antol, Stanislaw, et al. "VQA: Visual Question Answering". ICCV. 2015.
         </li>
         <li>
             Malinowski, Mateusz, et al. "Ask Your Neurons: A Neural-based Approach to Answering Questions about Images". ICCV. 2015.
