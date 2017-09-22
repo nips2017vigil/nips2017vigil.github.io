@@ -75,7 +75,7 @@ layout: default
         <img class='im-speaker-pic' src='images/olivier-pietquin-dp.jpg' alt='olivier-pietquin'>
         </th>
         <th class='speaker-bio'>
-        <b>Olivier Pietquin</b> is with Google DeepMind in London. His research interests
+        <b>Olivier Pietquin</b> is with DeepMind in London. His research interests
         include spoken dialog systems evaluation, simulation and automatic 
         optimization, machine learning (especially direct and inverse 
         reinforcement learning), speech and signal processing.
