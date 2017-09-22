@@ -41,7 +41,7 @@ layout: default
         <img class='im-speaker-pic' src='images/felix-hill-dp.jpg' alt='felix-hill'> 
         </th>
         <th class='speaker-bio'>
-        <b>Felix Hill</b> is a Research Scientist at Google DeepMind.
+        <b>Felix Hill</b> is a Research Scientist at DeepMind.
         He works on models and algorithms for extracting and representing
         semantic knowledge from text and other naturally occurring data.
         <a href='https://www.cl.cam.ac.uk/~fh295/'>[Webpage]</a>
