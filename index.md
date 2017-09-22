@@ -202,52 +202,52 @@ layout: default
 ## References
 <div>
     <ol>
-        <li>Kazemzadeh, Sahar, et al. "ReferIt Game: Referring to Objects in Photographs of Natural Scenes." EMNLP. 2014.</li>
-        <li>de Vries, Harm, et al. "GuessWhat?! Visual object discovery through multi-modal dialogue." CVPR. 2017.</li>
+        <li>Kazemzadeh, Sahar, et al. "ReferIt Game: Referring to Objects in Photographs of Natural Scenes". EMNLP. 2014.</li>
+        <li>de Vries, Harm, et al. "GuessWhat?! Visual object discovery through multi-modal dialogue". CVPR. 2017.</li>
         <li>
-            Antol, Stanislaw, et al. "VQA: Visual question answering." ICCV. 2015.
+            Antol, Stanislaw, et al. "VQA: Visual question answering". ICCV. 2015.
         </li>
         <li>
-            Malinowski, Mateusz, et al. "Ask Your Neurons: A Neural-based Approach to Answering Questions about Images." ICCV. 2015.
+            Malinowski, Mateusz, et al. "Ask Your Neurons: A Neural-based Approach to Answering Questions about Images". ICCV. 2015.
         </li>
         <li>
-            Das, Abhishek, et al. "Visual Dialog." CVPR. 2017.
+            Das, Abhishek, et al. "Visual Dialog". CVPR. 2017.
         </li>
         <li>
-            Rohrbach, Anna, et. al. "Generating Descriptions with Grounded and Co-Referenced People." CVPR. 2017.
+            Rohrbach, Anna, et. al. "Generating Descriptions with Grounded and Co-Referenced People". CVPR. 2017.
         </li>
         <li>
-            Beattie, Charles, et. al. <a href="https://deepmind.com/blog/open-sourcing-deepmind-lab/">"DeepMind Lab."</a> 2016.
+            Beattie, Charles, et. al. <a href="https://deepmind.com/blog/open-sourcing-deepmind-lab/">"DeepMind Lab".</a> 2016.
         </li>
         <li>
-            Yu, Haonan, et al. "A Deep Compositional Framework for Human-like Language Acquisition in Virtual Environment." arXiv preprint arXiv:1703.09831. 2017.
+            Yu, Haonan, et al. "A Deep Compositional Framework for Human-like Language Acquisition in Virtual Environment". arXiv preprint arXiv:1703.09831. 2017.
         </li>
         <li>
-            OpenAI. <a href="https://universe.openai.com/">"Universe."</a> 2016. 
+            OpenAI. <a href="https://universe.openai.com/">"Universe".</a> 2016. 
         </li>
         <li>
-            Strub, Florian, et al. "End-to-end optimization of goal-driven and visually grounded dialogue systems." IJCAI. 2017.
+            Strub, Florian, et al. "End-to-end Optimization of Goal-driven and Visually Grounded Dialogue Systems". IJCAI. 2017.
         </li>
         <li>
-            Das, Abhishek, et al. "Learning Cooperative Visual Dialog Agents with Deep Reinforcement Learning." ICCV. 2017.
+            Das, Abhishek, et al. "Learning Cooperative Visual Dialog Agents with Deep Reinforcement Learning". ICCV. 2017.
         </li>
         <li>
-            Hermann, Karl Moritz, et al. "Grounded Language Learning in a Simulated 3D World." arXiv preprint arXiv:1706.06551. 2017.
+            Hermann, Karl Moritz, et al. "Grounded Language Learning in a Simulated 3D World". arXiv preprint arXiv:1706.06551. 2017.
         </li>
         <li>
-            Huth, Alexander G., et al. "Natural speech reveals the semantic maps that tile human cerebral cortex." Nature 532.7600 (2016): 453-458.
+            Huth, Alexander G., et al. "Natural Speech Reveals the Semantic Maps that Tile Human Cerebral Cortex". Nature 532.7600 (2016): 453-458. 2016.
         </li>
         <li>
-            Huth, Alexander G., et al. "Decoding the semantic content of natural movies from human brain activity." Frontiers in systems neuroscience 10 (2016).
+            Huth, Alexander G., et al. "Decoding the Semantic Content of Natural Movies from Human Brain Activity". Frontiers in systems neuroscience 10. 2016.
         </li>
         <li>
-            Landau, Barbara, et al. Language and experience: Evidence from the blind child. Vol. 8. Harvard University Press, 2009.
+            Landau, Barbara, et al. "Language and Experience: Evidence from the Blind Child". Vol. 8. Harvard University Press. 2009.
         </li>
         <li>
-            Harnad, Stevan. The symbol grounding problem. 1999.
+            Harnad, Stevan. "The Symbol Grounding Problem". Physica D. 1990.
         </li>
         <li>
-            Perez-Pereira et al. Language development and social interaction in blind children. Psychology Press, 2013.
+            Perez-Pereira et al. "Language Development and Social Interaction in Blind Children". Psychology Press. 2013.
         </li>
     </ol>
 </div>
