@@ -120,69 +120,82 @@ layout: default
 
 <table class='organizer-pics-four'>
     <tr>
-        <th>
+        <td>
         <img class='im-speaker-pic' src='images/florian-strub-dp.jpeg' alt='florian'>
-        <figcaption><a>Florian Strub</a></figcaption>
-        <figcaption>University of Lille, Inria</figcaption>
-        </th>
-        <th>
+        </td>
+        <td>
         <img class='im-speaker-pic' src='images/harm-devries-dp.jpg' alt='harm'>
-        <figcaption><a href='http://www-etud.iro.umontreal.ca/~devries/'>Harm de Vries</a></figcaption>
-        <figcaption>University of Montreal</figcaption>
-        </th>
-        <th>
+        </td>
+        <td>
         <img class='im-speaker-pic' src='images/abhishek-das-dp.jpg' alt='abhishek'>
-        <figcaption><a href='https://abhishekdas.com'>Abhishek Das</a></figcaption>
-        <figcaption>Georgia Tech</figcaption>
-        </th>
-        <th>
+        </td>
+        <td>
         <img class='im-speaker-pic' src='images/satwik-kottur-dp.jpg' alt='satwik'>
-        <figcaption><a href='https://satwikkottur.github.io/'>Satwik Kottur</a></figcaption>
-        <figcaption>Carnegie Mellon</figcaption>
-        </th>
+        </td>
     </tr>
-</table>
-<table class='organizer-pics-three'>
     <tr>
-        <th>
+        <td><a>Florian Strub</a> <br> University of Lille, Inria </td>
+
+        <td><a href='http://www-etud.iro.umontreal.ca/~devries/'>Harm de Vries</a> <br>
+        University of Montreal </td>
+
+        <td><a href='https://abhishekdas.com'>Abhishek Das</a> <br>
+        Georgia Tech </td>
+
+        <td> <a href='https://satwikkottur.github.io/'>Satwik Kottur</a> <br>
+        Carnegie Mellon</td>
+    </tr>
+    <tr>
+        <td>
         <img class='im-speaker-pic' src='images/stefan-lee-dp.png' alt='stefan'>
-        <figcaption><a href='https://www.cc.gatech.edu/~slee3191'>Stefan Lee</a></figcaption>
-        <figcaption>Georgia Tech</figcaption>
-        </th>
-        <th>
+        </td>
+        <td>
         <img class='im-speaker-pic' src='images/mateusz-malinowski-dp.jpeg' alt='mateusz'>
-        <figcaption><a href='http://www.mateuszmalinowski.com'>Mateusz Malinowski</a></figcaption>
-        <figcaption>DeepMind</figcaption>
-        </th>
-        <th>
+        </td>
+        <td>
         <img class='im-speaker-pic' src='images/olivier-pietquin-dp.jpg' alt='olivier'>
-        <figcaption><a href='http://www.lifl.fr/~pietquin/'>Olivier Pietquin</a></figcaption>
-        <figcaption>DeepMind</figcaption>
-        </th>
+        </td>
+
+        <td></td>
     </tr>
-</table>
-<table class='organizer-pics-four'>
     <tr>
-        <th>
+        <td><a href='https://www.cc.gatech.edu/~slee3191'>Stefan Lee</a> <br>
+        Georgia Tech </td>
+
+        <td><a href='http://www.mateuszmalinowski.com'>Mateusz Malinowski</a> <br>
+        DeepMind</td>
+
+        <td><a href='http://www.lifl.fr/~pietquin/'>Olivier Pietquin</a> <br>
+        DeepMind</td>
+
+        <td></td>
+    </tr>
+    <tr>
+        <td>
         <img class='im-speaker-pic' src='images/devi-parikh-dp.jpg' alt='devi'>
-        <figcaption><a href='http://www.cc.gatech.edu/~parikh/'>Devi Parikh</a></figcaption>
-        <figcaption>Georgia Tech &amp; Facebook AI Research</figcaption>
-        </th>
-        <th>
+        </td>
+        <td>
         <img class='im-speaker-pic' src='images/dhruv-batra-dp.jpg' alt='dhruv'>
-        <figcaption><a href='http://www.cc.gatech.edu/~dbatra/'>Dhruv Batra</a></figcaption>
-        <figcaption>Georgia Tech &amp; Facebook AI Research</figcaption>
-        </th>
-        <th>
+        </td>
+        <td>
         <img class='im-speaker-pic' src='images/aaron-courville-dp.jpg' alt='aaron'>
-        <figcaption><a href='https://mila.quebec/en/person/aaron-courville/'>Aaron Courville</a></figcaption>
-        <figcaption>University of Montreal<br>&nbsp;</figcaption>
-        </th>
-        <th>
+        </td>
+        <td>
         <img class='im-speaker-pic' src='images/jeremie-mary-dp.jpg' alt='jeremie'>
-        <figcaption><a href='http://www.grappa.univ-lille3.fr/~mary/'>Jeremie Mary</a></figcaption>
-        <figcaption>Criteo<br>&nbsp;</figcaption>
-        </th>
+        </td>
+    </tr>
+    <tr>
+        <td><a href='http://www.cc.gatech.edu/~parikh/'>Devi Parikh</a><br>
+        Georgia Tech &amp; Facebook AI Research</td>
+
+        <td><a href='http://www.cc.gatech.edu/~dbatra/'>Dhruv Batra</a> <br>
+        Georgia Tech &amp; Facebook AI Research</td>
+
+        <td><a href='https://mila.quebec/en/person/aaron-courville/'>Aaron Courville</a> <br>
+        University of Montreal<br>&nbsp;</td>
+
+        <td><a href='http://www.grappa.univ-lille3.fr/~mary/'>Jeremie Mary</a> <br>
+        Criteo<br>&nbsp;</td>
     </tr>
 </table>
 
