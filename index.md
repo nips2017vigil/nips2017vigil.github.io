@@ -106,7 +106,7 @@ layout: default
 
 ## Submission Details
 
-Research papers on a multimodal grounding problem from various disciplines: Machine Learning, Computer Vision, Natural Language Processing, Neuroscience, Cognitive Science, and Psychology.
+We accept research papers on a multimodal grounding problem from various disciplines: Machine Learning, Computer Vision, Natural Language Processing, Neuroscience, Cognitive Science, and Psychology.
 
 Unpublished papers are expected to have between 2 and 4 pages excluding references, acknowledgements, and supplementary material in the <a href='https://nips.cc/Conferences/2017/PaperInformation/StyleFiles'>NIPS style</a>. We also welcome already published papers that are within the scope of the workshop, which can stay in the original form.
 
