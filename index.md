@@ -1,8 +1,10 @@
 ---
 layout: default
+description: ''
 ---
 
 ## Introduction
+
 <div style="text-align: justify">
 <p>Everyday interactions require a common understanding of language, i.e. for people to communicate effectively, words (for example ‘cat’) should invoke similar beliefs over physical concepts (what cats look like, the sounds they make, how they behave, what their skin feels like etc.). However, how this ‘common understanding’ emerges is still unclear.</p>
 
