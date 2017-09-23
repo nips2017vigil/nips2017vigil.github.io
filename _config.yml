@@ -1,7 +1,6 @@
 theme: jekyll-theme-cayman
 title: Visually-Grounded Interaction and Language
-description: "NIPS 2017 Workshop, Long Beach, California, USA<br>
-  Friday, December 8th, 08:00 AM — 06:30 PM"
+description: "NIPS 2017 Workshop, Long Beach, California, USA"
 google_analytics: UA-106603221-1
 
 # Exclude these files from your production _site
