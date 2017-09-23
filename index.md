@@ -111,7 +111,7 @@ One appealing hypothesis is that language is tied to how we interact with the en
 
 ## Submission Details
 
-We will accept papers related to:
+We invite you to submit papers related to the following topics:
 - language acquisition or learning through interactions
 - visual captioning, dialog, and question-answering
 - reasoning in language and vision
