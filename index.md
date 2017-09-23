@@ -110,11 +110,23 @@ layout: default
 
 ## Submission Details
 
-We accept research papers on a multimodal grounding problem from various disciplines: machine learning, computer vision, natural language processing, neuroscience, cognitive science, and psychology.
+We will accept papers related to:
+- language acquisition or learning through interactions
+- visual captioning, dialog, and question-answering
+- reasoning in language and vision
+- visual synthesis from language
+- transfer learning in language and vision tasks
+- navigation in virtual worlds with natural-language instructions
+- machine translation with visual cues
+- novel tasks that combine language, vision and actions
+- understanding and modeling the relationship between language and vision in humans
+- semantic systems and modeling of natural language and visual stimuli representations in the human brain
 
-Unpublished papers are expected to have between 2 and 4 pages excluding references, acknowledgements, and supplementary material, and should be written according to the <a href='https://nips.cc/Conferences/2017/PaperInformation/StyleFiles'>NIPS style</a>. We also welcome already published papers that are within the scope of the workshop, which can stay in the original form.
+<!-- We accept research papers on a multimodal grounding problem from various disciplines: machine learning, computer vision, natural language processing, neuroscience, cognitive science, and psychology. -->
 
-Accepted papers will be made publicly available as a non-archival report, allowing future submissions to archival conferences or journals.
+Submissions should be up to 4 pages excluding references, acknowledgements, and supplementary material, and should be in the <a href='https://nips.cc/Conferences/2017/PaperInformation/StyleFiles'>NIPS format</a>. We also welcome published papers that are within the scope of the workshop (without re-formatting).
+
+Accepted papers will be presented during 2 poster sessions, and up to 5 will be invited to deliver short talks. Accepted papers will be made publicly available as non-archival reports, allowing future submissions to archival conferences or journals.
 
 Please submit your paper to the following address: nips2017vigil@gmail.com
 
