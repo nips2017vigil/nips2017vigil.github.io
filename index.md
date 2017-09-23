@@ -4,7 +4,11 @@ layout: default
 
 ## Introduction
 <div style="text-align: justify">
-<p>Among the most important aspects of many multimodal tasks -- such as Visual Dialogue, Physical Interactions, or Visual Question Answering -- is the grounding problem that seeks the "meaning" by connecting meaningless symbols with meaningless symbols in another domain.</p>
+<p>Everyday interactions require a common understanding of language, i.e. for people to communicate effectively, words (for example ‘cat’) should invoke similar beliefs over physical concepts (what cats look like, the sounds they make, how they behave, what their skin feels like etc.). However, how this ‘common understanding’ emerges is still unclear.</p>
+
+<p>One appealing hypothesis is that language is tied to how we interact with the environment. As a result, meaning emerges by ‘grounding’ language in modalities in our environment (images, sounds, actions, etc.).</p>
+
+<p>Recent concurrent works in machine learning have focused on bridging visual and natural language understanding through visually-grounded language learning tasks, e.g. through natural images (Visual Question Answering, Visual Dialog), or through interactions with virtual physical environments. In cognitive science, progress in fMRI enables creating a semantic atlas of the cerebral cortex, or to decode semantic information from visual input. And in psychology, recent studies show that a baby’s most likely first words are based on their visual experience, laying the foundation for a new theory of infant language acquisition and learning.</p>
 
 <p>As the grounding problem requires an interdisciplinary attitude, this workshop aims to gather researchers with broad expertise in various fields -- machine learning, computer vision, natural language, neuroscience, and psychology -- and who are excited about this space of grounding and interactions, and who are willing to share their current work or perspectives on future directions.</p></div>
 
