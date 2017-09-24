@@ -280,3 +280,7 @@ Please submit your paper to the following address: nips2017vigil@gmail.com
         </li>
     </ol>
 </div>
+
+
+## Acknowledgement
+ - CHIST-ERA project "Interactive Grounded Language Understanding" [IGLU](https://iglu-chistera.github.io/)
