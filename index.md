@@ -163,7 +163,7 @@ Please submit your paper to the following address: nips2017vigil@gmail.com
         </td>
     </tr>
     <tr>
-        <td><a>Florian Strub</a> <br> University of Lille, Inria </td>
+        <td><a href='http://www.florian-strub.com'>Florian Strub</a> <br> University of Lille, Inria </td>
 
         <td><a href='http://www-etud.iro.umontreal.ca/~devries/'>Harm de Vries</a> <br>
         University of Montreal </td>
