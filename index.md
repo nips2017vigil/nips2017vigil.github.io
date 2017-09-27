@@ -228,6 +228,15 @@ Please submit your paper to the following address: nips2017vigil@gmail.com
     </tr>
 </table>
 
+## Sponsors
+
+<div id="sponsors">
+    <a href="https://research.fb.com/">
+    <img class="fblogo" border="0" src="https://research.fb.com/wp-content/themes/fb-research/images/branding/fb-research-logo-2x.png"/></a>
+    <a href="https://deepmind.com/">
+    <img class="fblogo" border="0" src="https://deepmind.com/static/v0.0.0/images/deepmind_logo.png"/></a>
+</div>
+
 ## Acknowledgement
  - CHIST-ERA project "Interactive Grounded Language Understanding" [IGLU](https://iglu-chistera.github.io/)
 
