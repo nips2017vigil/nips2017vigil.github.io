@@ -232,9 +232,9 @@ Please submit your paper to the following address: nips2017vigil@gmail.com
 
 <div id="sponsors" style="text-align:center;">
     <a href="https://research.fb.com/">
-    <img class="fblogo" border="0" style="display: inline-block; margin-left: auto; margin-right: auto; height: 30px; margin-right: 0px;" src="https://research.fb.com/wp-content/themes/fb-research/images/branding/fb-research-logo-2x.png"/></a>
+    <img class="fblogo" border="0" style="display: inline-block; margin-left: auto; margin-bottom: 7px; height: 30px; margin-right: 0px;" src="https://research.fb.com/wp-content/themes/fb-research/images/branding/fb-research-logo-2x.png"/></a>
     <a href="https://deepmind.com/">
-    <img class="fblogo" border="0" style="display: inline-block; margin-left: auto; margin-right: auto; height: 45px; margin-left: 20px;" src="https://deepmind.com/static/v0.0.0/images/deepmind_logo.png"/></a>
+    <img class="fblogo" border="0" style="display: inline-block; margin-right: auto; height: 45px; margin-left: 20px;" src="https://deepmind.com/static/v0.0.0/images/deepmind_logo.png"/></a>
 </div>
 
 We would also like to acknowledge the following institutions that supported us:
