@@ -239,7 +239,7 @@ Please submit your paper to the following address: nips2017vigil@gmail.com
     </p>
     <p>
         <a href="https://iglu-chistera.github.io/">
-    <img class="fblogo" border="0" style="display: inline-block; margin-right: auto; height: 20px; margin-left: auto;" src="https://raw.githubusercontent.com/IGLU-CHISTERA/IGLU-CHISTERA.github.io/master/logoIGLU-300.png"/></a>
+    <img class="fblogo" border="0" style="display: inline-block; margin-right: auto; height: 60px; margin-left: auto;" src="https://raw.githubusercontent.com/IGLU-CHISTERA/IGLU-CHISTERA.github.io/master/logoIGLU-300.png"/></a>
     </p>
     
 </div>
