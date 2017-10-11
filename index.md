@@ -29,7 +29,7 @@ One appealing hypothesis is that language is tied to how we interact with the en
         <a href='http://www.cs.utoronto.ca/~fidler/'>[Webpage]</a>
         </th>
     </tr>
-    <!-- <tr>
+    <tr>
         <th>
         <img class='im-speaker-pic' src='images/jack-gallant-dp.jpg' alt='jack-gallant'>
         </th>
@@ -40,7 +40,7 @@ One appealing hypothesis is that language is tied to how we interact with the en
         and function of the visual system.
         <a href='http://psychology.berkeley.edu/people/jack-l-gallant'>[Webpage]</a>
         </th>
-    </tr> -->
+    </tr>
     <tr>
         <th>
         <img class='im-speaker-pic' src='images/felix-hill-dp.jpg' alt='felix-hill'> 
@@ -87,19 +87,18 @@ One appealing hypothesis is that language is tied to how we interact with the en
         <a href='http://www.lifl.fr/~pietquin/'>[Webpage]</a>
         </th>
     </tr>
-    <!-- <tr>
+     <tr>
         <th>
-        <img class='im-speaker-pic' src='images/linda-smith-dp.jpg' alt='linda-smith'>
+        <img class='im-speaker-pic' src='images/chen-yu-dp.jpg' alt='linda-smith'>
         </th>
         <th class='speaker-bio'>
-        <b>Linda Smith</b> is a Professor at the Department of Pyschological and
-        Brain Sciences at Indiana University Bloomington.
-        Her research is on perceptual and cognitive development in infancy and
-        young children, the development of visual object recognition, word learning.
-        <a href='http://psych.indiana.edu/faculty/smith4.php'>[Webpage]</a>
+        <b>Chen Yu</b> is a Professor at Computational Cognition and Learning Lab at the University of Indiana.
+        His research interests focus on understanding human development and learning as the interdependence and integration of perceptual, attention, motor, cognitive, language and social processes.
+        <a href='http://www.indiana.edu/~dll/'>[Webpage]</a>
         </th>
-    </tr> -->
+    </tr> 
 </table>
+
 
 ## Important Dates
 
