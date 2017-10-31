@@ -106,10 +106,7 @@ One appealing hypothesis is that language is tied to how we interact with the en
 
 17th November 2017: Submission deadline
 
-10th November 2017: First round of Acceptance notification (if you submit your paper in advance)
-
-24th November 2017: Second round of Acceptance notification
-
+24th November 2017: Acceptance notification
 
 8th December 2017: Workshop
 
