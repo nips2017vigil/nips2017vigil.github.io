@@ -13,6 +13,23 @@ One appealing hypothesis is that language is tied to how we interact with the en
 
 <p>As the grounding problem requires an interdisciplinary attitude, this workshop aims to gather researchers with broad expertise in various fields -- machine learning, computer vision, natural language, neuroscience, and psychology -- and who are excited about this space of grounding and interactions, and who are willing to share their current work or perspectives on future directions.</p></div>
 
+## Schedule
+
+- 08:30 AM : Welcoming talk!
+- 08:45 AM : Visually Grounded Language: Past, Present, and Future... *Raymond J. Mooney*
+- 09:30 AM : Connecting high-level semantics with low-level vision. *Sanja Fidler*
+- 10:15 AM : Coffee Break & Poster Session
+- 10:40 AM : How vision and language are tied in the brain? *Jack Gallant*
+- 11:25 AM : The evolution of Visually grounded dataset. *Devi Parikh*
+- 12:10 AM : LUNCH
+- 02:00 PM : Dialogue systems and RL: interconnecting language, vision and rewards. *Olivier Pietquin*
+- 02:45 PM : Paper Presentation 
+- 03:15 PM : Coffee Break & Poster Session
+- 03:40 PM : Grounded Language Learning in a Simulated 3D World. *Felix Hill*
+- 04:25 PM : How infant learn to speak by interacting with the visual world? *Chen Yu*
+- 05:10 PM : Panel Discussion
+- 06:00 PM : END
+
 ## Invited Speakers
 
 <table>
