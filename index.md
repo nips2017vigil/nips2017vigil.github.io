@@ -23,7 +23,7 @@ One appealing hypothesis is that language is tied to how we interact with the en
 - 11:25 AM : The evolution of Visually grounded dataset. *Devi Parikh*
 - 12:10 AM : LUNCH
 - 02:00 PM : Dialogue systems and RL: interconnecting language, vision and rewards. *Olivier Pietquin*
-- 02:45 PM : Paper Presentation 
+- 02:45 PM : Spotlights 
   - Vision-and-Language Navigation: Interpreting visually-grounded navigation instructions in real environment. *Peter Anderson*
   - Curriculum Q-Learning for Visual Vocabulary Acquisition. *Ahmed H. Zaidi*
   - Examining Cooperation in Visual Dialog Models. *Mircea Mironenco*  
