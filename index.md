@@ -136,7 +136,7 @@ One appealing hypothesis is that language is tied to how we interact with the en
 
 ## Accepted Papers:
 - Actor-Critic Sequence Training for Image Captioning - *Li Zhang, Flood Sung, Feng Liu, 
-Tao Xiang, Shaogang Gong, Yongxin Yang, Timothy M. Hospedales* - [pdf](https://github.com/nips2017vigil/nips2017vigil.github.io/raw/master/papers/Actor-Critic_camera_ready.pdf)
+Tao Xiang, Shaogang Gong, Yongxin Yang, Timothy M. Hospedales* - [pdf](https://github.com/nips2017vigil/nips2017vigil.github.io/raw/master/papers/2017/actor_critic_sequence.pdf)
 - Answerer in Questioner’s Mind for Goal-Oriented Visual Dialogue - *Sang-Woo Lee, Yujung Heo, and Byoung-Tak Zhang*
 - Attention Based Natural Language Grounding by Navigating Virtual Environment
 - Characterizing how Visual Question Answering models scale with the world
@@ -154,7 +154,7 @@ Tao Xiang, Shaogang Gong, Yongxin Yang, Timothy M. Hospedales* - [pdf](https://g
 - Gated-Attention Architectures for Task-Oriented Language Grounding
 - Generating Descriptions with Grounded and Co-Referenced People - *Anna Rohrbach, Marcus Rohrbach, Siyu Tang, Seong Joon Oh, Bernt Schiele*
 - Graph R-CNN: Improved Scene Graph Generation and Its Applications to Image Captioning and VQA
-- Grounded Objects and Interactions for Video Captioning - *Chih-Yao Ma, Asim Kadav, Iain Melvin, Zsolt Kira, Ghassan AlRegib, Hans Peter Graf*
+- Grounded Objects and Interactions for Video Captioning - *Chih-Yao Ma, Asim Kadav, Iain Melvin, Zsolt Kira, Ghassan AlRegib, Hans Peter Graf* - (pdf)[https://github.com/nips2017vigil/nips2017vigil.github.io/raw/master/papers/2017/grounded_objects_%20and.pdf]
 - HoME: a Household Multimodal Environment - *Simon Brodeur, Ethan Perez, Ankesh Anand, Florian Golemo, Luca Celotti, Florian Strub, Jean Rouat, Hugo Larochelle, Aaron Courville*
 - Hyper-dimensional computing for a visual question-answering system that is trainable end-to-end - *Guglielmo Montone, J.Kevin O’Regan, Alexander V. Terekhov*
 - Improving Visually Grounded Sentence Representations with Self-Attention - *Kang Min Yoo, Youhyun Shin, Sang-goo Lee*
