@@ -164,7 +164,7 @@ Tao Xiang, Shaogang Gong, Yongxin Yang, Timothy M. Hospedales* - [pdf](https://g
 - Interpretable Counting for Visual Question Answering - *Alexander Trott, Caiming Xiong, Richard Socher*
 - Labelless Scene Classification - *Meng Ye, Yuhong Guo*
 - Learning to Color from Language - Varun Manjunatha\*, Mohit Iyyer\*, Jordan Boyd-Graber, Larry Davis*
-- Listen, Interact and Talk: Learning to Speak via Interaction - *Haichao Zhang, Haonan Yu, and Wei Xu*
+- Listen, Interact and Talk: Learning to Speak via Interaction - *Haichao Zhang, Haonan Yu, and Wei Xu* - [pdf](https://github.com/nips2017vigil/nips2017vigil.github.io/raw/master/papers/2017/listen_interact_and.pdf)
 - Modulating and attending the source image during encoding improves Multimodal Translation 
 - Multi-level Classification: Implications for Human-like Generalization - *Joshua Peterson, Paul Soulos, Aida Nematzadeh, Tom Griffiths*
 - Relationships from Entity Stream - *Martin Andrews, Sam Witteveen*
