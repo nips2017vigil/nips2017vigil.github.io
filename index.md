@@ -149,7 +149,7 @@ Tao Xiang, Shaogang Gong, Yongxin Yang, Timothy M. Hospedales* - [pdf](https://g
 - Ensembling Visual Explanation for VQA - *Nazneen Fatema Rajani, Raymond J. Mooney*
 - Examining Cooperation in Visual Dialog Models - *Mircea Mironenco\*, Dana Kianfar\*, Ke Tran, Evangelos Kanoulas, Efstratios Gavves*  
 - FigureQA: An Annotated Figure Dataset for Visual Reasoning - *Samira Ebrahimi Kahou, Adam Atkinson, Vincent Michalski, Ákos Kádár, Adam Trischler, Yoshua Bengio*
-- FiLM: Visual Reasoning with a General Conditioning Layer - *Ethan Perez, Florian Strub, Harm de Vries ,Vincent Dumoulin, Aaron Courville*
+- FiLM: Visual Reasoning with a General Conditioning Layer - *Ethan Perez, Florian Strub, Harm de Vries ,Vincent Dumoulin, Aaron Courville* - [pdf](https://arxiv.org/pdf/1709.07871.pdf)
 - fMRI Semantic Category Decoding using Linguistic Encoding of Word2Vec
 - Gated-Attention Architectures for Task-Oriented Language Grounding
 - Generating Descriptions with Grounded and Co-Referenced People - *Anna Rohrbach, Marcus Rohrbach, Siyu Tang, Seong Joon Oh, Bernt Schiele*
