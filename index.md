@@ -172,7 +172,7 @@ Tao Xiang, Shaogang Gong, Yongxin Yang, Timothy M. Hospedales* - [pdf](https://g
 - Semantic Image Retrieval via Active Grounding of Visual Situations - *Max H. Quinn, Erik Conser, Jordan M. Witte, Melanie Mitchell*
 - Video SemNet: Memory-Augmented Video Semantic Network - *Prashanth Vijayaraghavan, Deb Roy*
 - Vision-and-Language Navigation: Interpreting visually-grounded navigation instructions in real environments - *Peter Anderson, Qi Wu, Damien Teney, Jake Bruce, Mark Johnson, Niko Sünderhauf, Ian Reid, Stephen Gould, Anton van den Hengel*
-- Visual Explanations from Hadamard Product in Multimodal Deep Networks - *Jin-Hwa Kim, Byoung-Tak Zhang*
+- Visual Explanations from Hadamard Product in Multimodal Deep Networks - *Jin-Hwa Kim, Byoung-Tak Zhang* - [pdf](https://github.com/nips2017vigil/nips2017vigil.github.io/raw/master/papers/2017/visual_explanations_from.pdf)
 
 
 ## Submission Details
