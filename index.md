@@ -136,7 +136,7 @@ One appealing hypothesis is that language is tied to how we interact with the en
 
 ## Accepted Papers:
 - Actor-Critic Sequence Training for Image Captioning - *Li Zhang, Flood Sung, Feng Liu, 
-Tao Xiang, Shaogang Gong, Yongxin Yang, Timothy M. Hospedales* [pdf](https://github.com/nips2017vigil/nips2017vigil.github.io/raw/master/papers/Actor-Critic_camera_ready.pdf)
+Tao Xiang, Shaogang Gong, Yongxin Yang, Timothy M. Hospedales* - [pdf](https://github.com/nips2017vigil/nips2017vigil.github.io/raw/master/papers/Actor-Critic_camera_ready.pdf)
 - Answerer in Questioner’s Mind for Goal-Oriented Visual Dialogue - *Sang-Woo Lee, Yujung Heo, and Byoung-Tak Zhang*
 - Attention Based Natural Language Grounding by Navigating Virtual Environment
 - Characterizing how Visual Question Answering models scale with the world
