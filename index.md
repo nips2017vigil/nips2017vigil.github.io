@@ -24,12 +24,12 @@ One appealing hypothesis is that language is tied to how we interact with the en
 - 12:10 AM : LUNCH
 - 02:00 PM : Dialogue systems and RL: interconnecting language, vision and rewards. *Olivier Pietquin*
 - 02:45 PM : Spotlights 
-  - Vision-and-Language Navigation: Interpreting visually-grounded navigation instructions in real environment. *Peter Anderson*
-  - Curriculum Q-Learning for Visual Vocabulary Acquisition. *Ahmed H. Zaidi*
-  - Examining Cooperation in Visual Dialog Models. *Mircea Mironenco*  
-  - Interpretable Counting for Visual Question Answering. *Alexander Trott*
-  - Interactive Reinforcement Learning for Object Grounding via Self-Talking. *Yan Zhu*
-  - Informing Action Primitives Through Free-Form Text. *Ben Murdoch*
+  - Vision-and-Language Navigation: Interpreting visually-grounded navigation instructions in real environment. *Peter Anderson et al.*
+  - Curriculum Q-Learning for Visual Vocabulary Acquisition. *Ahmed H. Zaidi et al.*
+  - Examining Cooperation in Visual Dialog Models. *Mircea Mironenco et al.*  
+  - Interpretable Counting for Visual Question Answering. *Alexander Trott et al.*
+  - Interactive Reinforcement Learning for Object Grounding via Self-Talking. *Yan Zhu et al.*
+  - Informing Action Primitives Through Free-Form Text. *Ben Murdoch et al.*
 - 03:15 PM : Coffee Break & Poster Session
 - 03:40 PM : Grounded Language Learning in a Simulated 3D World. *Felix Hill*
 - 04:25 PM : How infant learn to speak by interacting with the visual world? *Chen Yu*
