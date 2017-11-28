@@ -135,7 +135,43 @@ One appealing hypothesis is that language is tied to how we interact with the en
 
 
 ## Accepted Papers:
-Coming soon...
+- Actor-Critic Sequence Training for Image Captioning 
+- Answerer in Questioner’s Mind for Goal-Oriented Visual Dialogue - *Sang-Woo Lee, Yujung Heo, and Byoung-Tak Zhang*
+- Attention Based Natural Language Grounding by Navigating Virtual Environment
+- Characterizing how Visual Question Answering models scale with the world
+- Compositional Generation of Images
+- Curriculum Q-Learning for Visual Vocabulary Acquisition - *Ahmed H. Zaidi, Russell Moore, Ted Briscoe*
+- dBaby: Grounded Language Teaching through Games and Efficient Reinforcement Learning *Guntis Barzdins, Renars Liepins,  Paulis F. Barzdins, Didzis Gosko*
+- Describing Semantic Representations of Brain Activity Evoked by Visual Stimuli - *Eri Matsuo Ichiro Kobayashi, Shinji Nishimoto Satoshi Nishida, Hideki Asoh*
+- Don’t Just Assume; Look and Answer: Overcoming Priors for Visual Question Answering 
+- End-to-End Models for Task-Oriented Gameplay with Gated-Attention Networks and Malliavin-Stein Variational Policy Gradients - *Ali Zaidi*
+- Ensembling Visual Explanation for VQA - *Nazneen Fatema Rajani, Raymond J. Mooney*
+- Examining Cooperation in Visual Dialog Models - *Mircea Mironenco\*, Dana Kianfar\*, Ke Tran, Evangelos Kanoulas, Efstratios Gavves*  
+- FigureQA: An Annotated Figure Dataset for Visual Reasoning - *Samira Ebrahimi Kahou, Adam Atkinson, Vincent Michalski, Ákos Kádár, Adam Trischler, Yoshua Bengio*
+- FiLM: Visual Reasoning with a General Conditioning Layer - *Ethan Perez, Florian Strub, Harm de Vries ,Vincent Dumoulin, Aaron Courville*
+- fMRI Semantic Category Decoding using Linguistic Encoding of Word2Vec
+- Gated-Attention Architectures for Task-Oriented Language Grounding
+- Generating Descriptions with Grounded and Co-Referenced People - *Anna Rohrbach, Marcus Rohrbach, Siyu Tang, Seong Joon Oh, Bernt Schiele*
+- Graph R-CNN: Improved Scene Graph Generation and Its Applications to Image Captioning and VQA
+- Grounded Objects and Interactions for Video Captioning - *Chih-Yao Ma, Asim Kadav, Iain Melvin, Zsolt Kira, Ghassan AlRegib, Hans Peter Graf*
+- HoME: a Household Multimodal Environment - *Simon Brodeur, Ethan Perez, Ankesh Anand, Florian Golemo, Luca Celotti, Florian Strub, Jean Rouat, Hugo Larochelle, Aaron Courville*
+- Hyper-dimensional computing for a visual question-answering system that is trainable end-to-end - *Guglielmo Montone, J.Kevin O’Regan, Alexander V. Terekhov*
+- Improving Visually Grounded Sentence Representations with Self-Attention - *Kang Min Yoo, Youhyun Shin, Sang-goo Lee*
+- Informing Action Primitives Through Free-Form Text
+- Interactive Image Manipulation with Natural Language Instruction Commands - *Seitaro Shinagawa, Koichiro Yoshino, Sakti Sakriani, Yu Suzuki, Satoshi Nakamura*
+- Interactive Reinforcement Learning for Object Grounding via Self-Talking - *Yan Zhu, Shaoting Zhang, Dimitris Metaxas*
+- Interpretable Counting for Visual Question Answering - *Alexander Trott, Caiming Xiong, Richard Socher*
+- Labelless Scene Classification - *Meng Ye, Yuhong Guo*
+- Learning to Color from Language - Varun Manjunatha\*, Mohit Iyyer\*, Jordan Boyd-Graber, Larry Davis*
+- Listen, Interact and Talk: Learning to Speak via Interaction - *Haichao Zhang, Haonan Yu, and Wei Xu*
+- Modulating and attending the source image during encoding improves Multimodal Translation 
+- Multi-level Classification: Implications for Human-like Generalization - *Joshua Peterson, Paul Soulos, Aida Nematzadeh, Tom Griffiths*
+- Relationships from Entity Stream - *Martin Andrews, Sam Witteveen*
+- Retweet Wars: Tweet Popularity Prediction via Multimodal Regression - *Ke Wang, Mohit Bansal, Jan-Michael Frahm*
+- Semantic Image Retrieval via Active Grounding of Visual Situations - *Max H. Quinn, Erik Conser, Jordan M. Witte, Melanie Mitchell*
+- Video SemNet: Memory-Augmented Video Semantic Network - *Prashanth Vijayaraghavan, Deb Roy*
+- Vision-and-Language Navigation: Interpreting visually-grounded navigation instructions in real environments - *Peter Anderson, Qi Wu, Damien Teney, Jake Bruce, Mark Johnson, Niko Sünderhauf, Ian Reid, Stephen Gould, Anton van den Hengel*
+- Visual Explanations from Hadamard Product in Multimodal Deep Networks - *Jin-Hwa Kim, Byoung-Tak Zhang*
 
 
 ## Submission Details
