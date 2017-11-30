@@ -160,7 +160,7 @@ Tao Xiang, Shaogang Gong, Yongxin Yang, Timothy M. Hospedales* - [pdf](https://g
 - Improving Visually Grounded Sentence Representations with Self-Attention - *Kang Min Yoo, Youhyun Shin, Sang-goo Lee*
 - Informing Action Primitives Through Free-Form Text
 - Interactive Image Manipulation with Natural Language Instruction Commands - *Seitaro Shinagawa, Koichiro Yoshino, Sakti Sakriani, Yu Suzuki, Satoshi Nakamura*
-- Interactive Reinforcement Learning for Object Grounding via Self-Talking - *Yan Zhu, Shaoting Zhang, Dimitris Metaxas*
+- Interactive Reinforcement Learning for Object Grounding via Self-Talking - *Yan Zhu, Shaoting Zhang, Dimitris Metaxas*  - [pdf](https://github.com/nips2017vigil/nips2017vigil.github.io/raw/master/papers/2017/interactive_%20reinforcement_learning.pdf)
 - Interpretable Counting for Visual Question Answering - *Alexander Trott, Caiming Xiong, Richard Socher*
 - Labelless Scene Classification - *Meng Ye, Yuhong Guo*
 - Learning to Color from Language - Varun Manjunatha\*, Mohit Iyyer\*, Jordan Boyd-Graber, Larry Davis*
