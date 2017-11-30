@@ -138,16 +138,16 @@ One appealing hypothesis is that language is tied to how we interact with the en
 - Actor-Critic Sequence Training for Image Captioning - *Li Zhang, Flood Sung, Feng Liu, 
 Tao Xiang, Shaogang Gong, Yongxin Yang, Timothy M. Hospedales* - [pdf](https://github.com/nips2017vigil/nips2017vigil.github.io/raw/master/papers/2017/actor_critic_sequence.pdf)
 - Answerer in Questioner’s Mind for Goal-Oriented Visual Dialogue - *Sang-Woo Lee, Yujung Heo, and Byoung-Tak Zhang*
-- Attention Based Natural Language Grounding by Navigating Virtual Environment
+- Attention Based Natural Language Grounding by Navigating Virtual Environment - *Akilesh B, Abhishek Sinha, Mausoom Sarkar, Balaji Krishnamurthy* [pdf](https://github.com/nips2017vigil/nips2017vigil.github.io/raw/master/papers/2017/attention-based-natural.pdf)
 - Characterizing how Visual Question Answering models scale with the world
-- Compositional Generation of Images
+- Compositional Generation of Images - *Amit Raj, Cusuh Ham, Huda Alamri, Vincent Cartillier, Stefan Lee, James Hays* - [pdf](https://github.com/nips2017vigil/nips2017vigil.github.io/raw/master/papers/2017/compositional-generation-images.pdf)
 - Curriculum Q-Learning for Visual Vocabulary Acquisition - *Ahmed H. Zaidi, Russell Moore, Ted Briscoe*
 - dBaby: Grounded Language Teaching through Games and Efficient Reinforcement Learning *Guntis Barzdins, Renars Liepins,  Paulis F. Barzdins, Didzis Gosko*
 - Describing Semantic Representations of Brain Activity Evoked by Visual Stimuli - *Eri Matsuo Ichiro Kobayashi, Shinji Nishimoto Satoshi Nishida, Hideki Asoh*
 - Don’t Just Assume; Look and Answer: Overcoming Priors for Visual Question Answering 
 - End-to-End Models for Task-Oriented Gameplay with Gated-Attention Networks and Malliavin-Stein Variational Policy Gradients - *Ali Zaidi*
 - Ensembling Visual Explanation for VQA - *Nazneen Fatema Rajani, Raymond J. Mooney*
-- Examining Cooperation in Visual Dialog Models - *Mircea Mironenco\*, Dana Kianfar\*, Ke Tran, Evangelos Kanoulas, Efstratios Gavves*  
+- Examining Cooperation in Visual Dialog Models - *Mircea Mironenco\*, Dana Kianfar\*, Ke Tran, Evangelos Kanoulas, Efstratios Gavves* - [pdf](https://github.com/nips2017vigil/nips2017vigil.github.io/raw/master/papers/2017/examining-cooperation-visual.pdf)  
 - FigureQA: An Annotated Figure Dataset for Visual Reasoning - *Samira Ebrahimi Kahou, Adam Atkinson, Vincent Michalski, Ákos Kádár, Adam Trischler, Yoshua Bengio*
 - FiLM: Visual Reasoning with a General Conditioning Layer - *Ethan Perez, Florian Strub, Harm de Vries ,Vincent Dumoulin, Aaron Courville* - [pdf](https://arxiv.org/pdf/1709.07871.pdf)
 - fMRI Semantic Category Decoding using Linguistic Encoding of Word2Vec
@@ -166,7 +166,7 @@ Tao Xiang, Shaogang Gong, Yongxin Yang, Timothy M. Hospedales* - [pdf](https://g
 - Learning to Color from Language - Varun Manjunatha\*, Mohit Iyyer\*, Jordan Boyd-Graber, Larry Davis*
 - Listen, Interact and Talk: Learning to Speak via Interaction - *Haichao Zhang, Haonan Yu, and Wei Xu* - [pdf](https://github.com/nips2017vigil/nips2017vigil.github.io/raw/master/papers/2017/listen_interact_and.pdf)
 - Modulating and attending the source image during encoding improves Multimodal Translation 
-- Multi-level Classification: Implications for Human-like Generalization - *Joshua Peterson, Paul Soulos, Aida Nematzadeh, Tom Griffiths*
+- Multi-level Classification: Implications for Human-like Generalization - *Joshua Peterson, Paul Soulos, Aida Nematzadeh, Tom Griffiths* - [pdf](https://github.com/nips2017vigil/nips2017vigil.github.io/raw/master/papers/2017/multi-level_classification.pdf)
 - Relationships from Entity Stream - *Martin Andrews, Sam Witteveen*
 - Retweet Wars: Tweet Popularity Prediction via Multimodal Regression - *Ke Wang, Mohit Bansal, Jan-Michael Frahm*
 - Semantic Image Retrieval via Active Grounding of Visual Situations - *Max H. Quinn, Erik Conser, Jordan M. Witte, Melanie Mitchell*
