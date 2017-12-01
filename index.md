@@ -162,16 +162,16 @@ Tao Xiang, Shaogang Gong, Yongxin Yang, Timothy M. Hospedales* - [pdf](https://g
 - Interactive Image Manipulation with Natural Language Instruction Commands - *Seitaro Shinagawa, Koichiro Yoshino, Sakti Sakriani, Yu Suzuki, Satoshi Nakamura*
 - Interactive Reinforcement Learning for Object Grounding via Self-Talking - *Yan Zhu, Shaoting Zhang, Dimitris Metaxas*  - [pdf](https://github.com/nips2017vigil/nips2017vigil.github.io/raw/master/papers/2017/interactive_%20reinforcement_learning.pdf)
 - Interpretable Counting for Visual Question Answering - *Alexander Trott, Caiming Xiong, Richard Socher* - [pdf](https://github.com/nips2017vigil/nips2017vigil.github.io/raw/master/papers/2017/interpretable_counting_for.pdf)
-- Labelless Scene Classification - *Meng Ye, Yuhong Guo*
+- Labelless Scene Classification - *Meng Ye, Yuhong Guo* - [pdf](https://github.com/nips2017vigil/nips2017vigil.github.io/raw/master/papers/2017/labelless_scene_classification.pdf)
 - Learning to Color from Language - Varun Manjunatha\*, Mohit Iyyer\*, Jordan Boyd-Graber, Larry Davis*
 - Listen, Interact and Talk: Learning to Speak via Interaction - *Haichao Zhang, Haonan Yu, and Wei Xu* - [pdf](https://github.com/nips2017vigil/nips2017vigil.github.io/raw/master/papers/2017/listen_interact_and.pdf)
 - Modulating and attending the source image during encoding improves Multimodal Translation 
 - Multi-level Classification: Implications for Human-like Generalization - *Joshua Peterson, Paul Soulos, Aida Nematzadeh, Tom Griffiths* - [pdf](https://github.com/nips2017vigil/nips2017vigil.github.io/raw/master/papers/2017/multi-level_classification.pdf)
-- Relationships from Entity Stream - *Martin Andrews, Sam Witteveen*
+- Relationships from Entity Stream - *Martin Andrews, Sam Witteveen* 
 - Retweet Wars: Tweet Popularity Prediction via Multimodal Regression - *Ke Wang, Mohit Bansal, Jan-Michael Frahm* - [pdf](https://github.com/nips2017vigil/nips2017vigil.github.io/raw/master/papers/2017/retweet_wars.pdf)
 - Semantic Image Retrieval via Active Grounding of Visual Situations - *Max H. Quinn, Erik Conser, Jordan M. Witte, Melanie Mitchell* - [pdf](https://github.com/nips2017vigil/nips2017vigil.github.io/raw/master/papers/2017/semantic_image%20_retrieval.pdf)
 - Video SemNet: Memory-Augmented Video Semantic Network - *Prashanth Vijayaraghavan, Deb Roy* - [pdf](https://github.com/nips2017vigil/nips2017vigil.github.io/raw/master/papers/2017/video-semnet-memory.pdf)
-- Vision-and-Language Navigation: Interpreting visually-grounded navigation instructions in real environments - *Peter Anderson, Qi Wu, Damien Teney, Jake Bruce, Mark Johnson, Niko Sünderhauf, Ian Reid, Stephen Gould, Anton van den Hengel*
+- Vision-and-Language Navigation: Interpreting visually-grounded navigation instructions in real environments - *Peter Anderson, Qi Wu, Damien Teney, Jake Bruce, Mark Johnson, Niko Sünderhauf, Ian Reid, Stephen Gould, Anton van den Hengel* - [pdf](https://github.com/nips2017vigil/nips2017vigil.github.io/raw/master/papers/2017/Vision-and-Language-Navigation.pdf)
 - Visual Explanations from Hadamard Product in Multimodal Deep Networks - *Jin-Hwa Kim, Byoung-Tak Zhang* - [pdf](https://github.com/nips2017vigil/nips2017vigil.github.io/raw/master/papers/2017/visual_explanations_from.pdf)
 
 
