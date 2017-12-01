@@ -152,7 +152,7 @@ Tao Xiang, Shaogang Gong, Yongxin Yang, Timothy M. Hospedales* - [pdf](https://g
 - FiLM: Visual Reasoning with a General Conditioning Layer - *Ethan Perez, Florian Strub, Harm de Vries ,Vincent Dumoulin, Aaron Courville* - [pdf](https://arxiv.org/pdf/1709.07871.pdf)
 - fMRI Semantic Category Decoding using Linguistic Encoding of Word2Vec - *Subba Reddy Oota, Naresh Manwani, Raju S. Bapi* - [pdf](https://github.com/nips2017vigil/nips2017vigil.github.io/raw/master/papers/2017/fmri-semantic-category.pdf)
 - Gated-Attention Architectures for Task-Oriented Language Grounding - *Devendra Singh Chaplot, Kanthashree Mysore Sathyendra, Rama Kumar Pasumarthi, Dheeraj Rajagopal, Ruslan Salakhutdinov* - [pdf](https://github.com/nips2017vigil/nips2017vigil.github.io/raw/master/papers/2017/gated_attention.pdf)
-- Generating Descriptions with Grounded and Co-Referenced People - *Anna Rohrbach, Marcus Rohrbach, Siyu Tang, Seong Joon Oh, Bernt Schiele*
+- Generating Descriptions with Grounded and Co-Referenced People - *Anna Rohrbach, Marcus Rohrbach, Siyu Tang, Seong Joon Oh, Bernt Schiele* - [pdf](https://github.com/nips2017vigil/nips2017vigil.github.io/raw/master/papers/2017/generating_descriptions_with.pdf)
 - Graph R-CNN: Improved Scene Graph Generation and Its Applications to Image Captioning and VQA
 - Grounded Objects and Interactions for Video Captioning - *Chih-Yao Ma, Asim Kadav, Iain Melvin, Zsolt Kira, Ghassan AlRegib, Hans Peter Graf* - [pdf](https://github.com/nips2017vigil/nips2017vigil.github.io/raw/master/papers/2017/grounded_objects_%20and.pdf)
 - HoME: a Household Multimodal Environment - *Simon Brodeur, Ethan Perez, Ankesh Anand, Florian Golemo, Luca Celotti, Florian Strub, Jean Rouat, Hugo Larochelle, Aaron Courville* - [pdf](https://github.com/nips2017vigil/nips2017vigil.github.io/raw/master/papers/2017/HoME_a_household.pdf)
@@ -163,7 +163,7 @@ Tao Xiang, Shaogang Gong, Yongxin Yang, Timothy M. Hospedales* - [pdf](https://g
 - Interactive Reinforcement Learning for Object Grounding via Self-Talking - *Yan Zhu, Shaoting Zhang, Dimitris Metaxas*  - [pdf](https://github.com/nips2017vigil/nips2017vigil.github.io/raw/master/papers/2017/interactive_%20reinforcement_learning.pdf)
 - Interpretable Counting for Visual Question Answering - *Alexander Trott, Caiming Xiong, Richard Socher* - [pdf](https://github.com/nips2017vigil/nips2017vigil.github.io/raw/master/papers/2017/interpretable_counting_for.pdf)
 - Labelless Scene Classification - *Meng Ye, Yuhong Guo* - [pdf](https://github.com/nips2017vigil/nips2017vigil.github.io/raw/master/papers/2017/labelless_scene_classification.pdf)
-- Learning to Color from Language - Varun Manjunatha\*, Mohit Iyyer\*, Jordan Boyd-Graber, Larry Davis*
+- Learning to Color from Language - *Varun Manjunatha\*, Mohit Iyyer\*, Jordan Boyd-Graber, Larry Davis*
 - Listen, Interact and Talk: Learning to Speak via Interaction - *Haichao Zhang, Haonan Yu, and Wei Xu* - [pdf](https://github.com/nips2017vigil/nips2017vigil.github.io/raw/master/papers/2017/listen_interact_and.pdf)
 - Modulating and attending the source image during encoding improves Multimodal Translation 
 - Multi-level Classification: Implications for Human-like Generalization - *Joshua Peterson, Paul Soulos, Aida Nematzadeh, Tom Griffiths* - [pdf](https://github.com/nips2017vigil/nips2017vigil.github.io/raw/master/papers/2017/multi-level_classification.pdf)
