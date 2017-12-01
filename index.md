@@ -141,17 +141,17 @@ Tao Xiang, Shaogang Gong, Yongxin Yang, Timothy M. Hospedales* - [pdf](https://g
 - Attention Based Natural Language Grounding by Navigating Virtual Environment - *Akilesh B, Abhishek Sinha, Mausoom Sarkar, Balaji Krishnamurthy* [pdf](https://github.com/nips2017vigil/nips2017vigil.github.io/raw/master/papers/2017/attention-based-natural.pdf)
 - Characterizing how Visual Question Answering models scale with the world
 - Compositional Generation of Images - *Amit Raj, Cusuh Ham, Huda Alamri, Vincent Cartillier, Stefan Lee, James Hays* - [pdf](https://github.com/nips2017vigil/nips2017vigil.github.io/raw/master/papers/2017/compositional-generation-images.pdf)
-- Curriculum Q-Learning for Visual Vocabulary Acquisition - *Ahmed H. Zaidi, Russell Moore, Ted Briscoe*
+- Curriculum Q-Learning for Visual Vocabulary Acquisition - *Ahmed H. Zaidi, Russell Moore, Ted Briscoe* - [pdf](https://github.com/nips2017vigil/nips2017vigil.github.io/raw/master/papers/2017/curriculum-q-learning.pdf)
 - dBaby: Grounded Language Teaching through Games and Efficient Reinforcement Learning *Guntis Barzdins, Renars Liepins,  Paulis F. Barzdins, Didzis Gosko*
-- Describing Semantic Representations of Brain Activity Evoked by Visual Stimuli - *Eri Matsuo Ichiro Kobayashi, Shinji Nishimoto Satoshi Nishida, Hideki Asoh*
+- Describing Semantic Representations of Brain Activity Evoked by Visual Stimuli - *Eri Matsuo Ichiro Kobayashi, Shinji Nishimoto Satoshi Nishida, Hideki Asoh* - [pdf](https://github.com/nips2017vigil/nips2017vigil.github.io/raw/master/papers/2017/describing_semantic_representations.pdf)
 - Don’t Just Assume; Look and Answer: Overcoming Priors for Visual Question Answering 
 - End-to-End Models for Task-Oriented Gameplay with Gated-Attention Networks and Malliavin-Stein Variational Policy Gradients - *Ali Zaidi*
 - Ensembling Visual Explanation for VQA - *Nazneen Fatema Rajani, Raymond J. Mooney*
 - Examining Cooperation in Visual Dialog Models - *Mircea Mironenco\*, Dana Kianfar\*, Ke Tran, Evangelos Kanoulas, Efstratios Gavves* - [pdf](https://github.com/nips2017vigil/nips2017vigil.github.io/raw/master/papers/2017/examining-cooperation-visual.pdf)  
 - FigureQA: An Annotated Figure Dataset for Visual Reasoning - *Samira Ebrahimi Kahou, Adam Atkinson, Vincent Michalski, Ákos Kádár, Adam Trischler, Yoshua Bengio*
 - FiLM: Visual Reasoning with a General Conditioning Layer - *Ethan Perez, Florian Strub, Harm de Vries ,Vincent Dumoulin, Aaron Courville* - [pdf](https://arxiv.org/pdf/1709.07871.pdf)
-- fMRI Semantic Category Decoding using Linguistic Encoding of Word2Vec
-- Gated-Attention Architectures for Task-Oriented Language Grounding
+- fMRI Semantic Category Decoding using Linguistic Encoding of Word2Vec - *Subba Reddy Oota, Naresh Manwani, Raju S. Bapi* - [pdf](https://github.com/nips2017vigil/nips2017vigil.github.io/raw/master/papers/2017/fmri-semantic-category.pdf)
+- Gated-Attention Architectures for Task-Oriented Language Grounding - *Devendra Singh Chaplot, Kanthashree Mysore Sathyendra, Rama Kumar Pasumarthi, Dheeraj Rajagopal, Ruslan Salakhutdinov* - [pdf](https://github.com/nips2017vigil/nips2017vigil.github.io/raw/master/papers/2017/gated_attention.pdf)
 - Generating Descriptions with Grounded and Co-Referenced People - *Anna Rohrbach, Marcus Rohrbach, Siyu Tang, Seong Joon Oh, Bernt Schiele*
 - Graph R-CNN: Improved Scene Graph Generation and Its Applications to Image Captioning and VQA
 - Grounded Objects and Interactions for Video Captioning - *Chih-Yao Ma, Asim Kadav, Iain Melvin, Zsolt Kira, Ghassan AlRegib, Hans Peter Graf* - [pdf](https://github.com/nips2017vigil/nips2017vigil.github.io/raw/master/papers/2017/grounded_objects_%20and.pdf)
@@ -161,7 +161,7 @@ Tao Xiang, Shaogang Gong, Yongxin Yang, Timothy M. Hospedales* - [pdf](https://g
 - Informing Action Primitives Through Free-Form Text - *Nancy Fulda, Ben Murdoch, Daniel Ricks, David Wingate* - [pdf](https://github.com/nips2017vigil/nips2017vigil.github.io/raw/master/papers/2017/informing_action_primitives.pdf)
 - Interactive Image Manipulation with Natural Language Instruction Commands - *Seitaro Shinagawa, Koichiro Yoshino, Sakti Sakriani, Yu Suzuki, Satoshi Nakamura*
 - Interactive Reinforcement Learning for Object Grounding via Self-Talking - *Yan Zhu, Shaoting Zhang, Dimitris Metaxas*  - [pdf](https://github.com/nips2017vigil/nips2017vigil.github.io/raw/master/papers/2017/interactive_%20reinforcement_learning.pdf)
-- Interpretable Counting for Visual Question Answering - *Alexander Trott, Caiming Xiong, Richard Socher*
+- Interpretable Counting for Visual Question Answering - *Alexander Trott, Caiming Xiong, Richard Socher* - [pdf](https://github.com/nips2017vigil/nips2017vigil.github.io/raw/master/papers/2017/interpretable_counting_for.pdf)
 - Labelless Scene Classification - *Meng Ye, Yuhong Guo*
 - Learning to Color from Language - Varun Manjunatha\*, Mohit Iyyer\*, Jordan Boyd-Graber, Larry Davis*
 - Listen, Interact and Talk: Learning to Speak via Interaction - *Haichao Zhang, Haonan Yu, and Wei Xu* - [pdf](https://github.com/nips2017vigil/nips2017vigil.github.io/raw/master/papers/2017/listen_interact_and.pdf)
@@ -170,7 +170,7 @@ Tao Xiang, Shaogang Gong, Yongxin Yang, Timothy M. Hospedales* - [pdf](https://g
 - Relationships from Entity Stream - *Martin Andrews, Sam Witteveen*
 - Retweet Wars: Tweet Popularity Prediction via Multimodal Regression - *Ke Wang, Mohit Bansal, Jan-Michael Frahm* - [pdf](https://github.com/nips2017vigil/nips2017vigil.github.io/raw/master/papers/2017/retweet_wars.pdf)
 - Semantic Image Retrieval via Active Grounding of Visual Situations - *Max H. Quinn, Erik Conser, Jordan M. Witte, Melanie Mitchell* - [pdf](https://github.com/nips2017vigil/nips2017vigil.github.io/raw/master/papers/2017/semantic_image%20_retrieval.pdf)
-- Video SemNet: Memory-Augmented Video Semantic Network - *Prashanth Vijayaraghavan, Deb Roy*
+- Video SemNet: Memory-Augmented Video Semantic Network - *Prashanth Vijayaraghavan, Deb Roy* - [pdf](https://github.com/nips2017vigil/nips2017vigil.github.io/raw/master/papers/2017/video-semnet-memory.pdf)
 - Vision-and-Language Navigation: Interpreting visually-grounded navigation instructions in real environments - *Peter Anderson, Qi Wu, Damien Teney, Jake Bruce, Mark Johnson, Niko Sünderhauf, Ian Reid, Stephen Gould, Anton van den Hengel*
 - Visual Explanations from Hadamard Product in Multimodal Deep Networks - *Jin-Hwa Kim, Byoung-Tak Zhang* - [pdf](https://github.com/nips2017vigil/nips2017vigil.github.io/raw/master/papers/2017/visual_explanations_from.pdf)
 
