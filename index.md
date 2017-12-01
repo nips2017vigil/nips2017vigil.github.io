@@ -158,7 +158,7 @@ Tao Xiang, Shaogang Gong, Yongxin Yang, Timothy M. Hospedales* - [pdf](https://g
 - HoME: a Household Multimodal Environment - *Simon Brodeur, Ethan Perez, Ankesh Anand, Florian Golemo, Luca Celotti, Florian Strub, Jean Rouat, Hugo Larochelle, Aaron Courville* - [pdf](https://github.com/nips2017vigil/nips2017vigil.github.io/raw/master/papers/2017/HoME_a_household.pdf)
 - Hyper-dimensional computing for a visual question-answering system that is trainable end-to-end - *Guglielmo Montone, J.Kevin O’Regan, Alexander V. Terekhov*
 - Improving Visually Grounded Sentence Representations with Self-Attention - *Kang Min Yoo, Youhyun Shin, Sang-goo Lee*
-- Informing Action Primitives Through Free-Form Text
+- Informing Action Primitives Through Free-Form Text - *Nancy Fulda, Ben Murdoch, Daniel Ricks, David Wingate* - [pdf](https://github.com/nips2017vigil/nips2017vigil.github.io/raw/master/papers/2017/informing_action_primitives.pdf)
 - Interactive Image Manipulation with Natural Language Instruction Commands - *Seitaro Shinagawa, Koichiro Yoshino, Sakti Sakriani, Yu Suzuki, Satoshi Nakamura*
 - Interactive Reinforcement Learning for Object Grounding via Self-Talking - *Yan Zhu, Shaoting Zhang, Dimitris Metaxas*  - [pdf](https://github.com/nips2017vigil/nips2017vigil.github.io/raw/master/papers/2017/interactive_%20reinforcement_learning.pdf)
 - Interpretable Counting for Visual Question Answering - *Alexander Trott, Caiming Xiong, Richard Socher*
@@ -168,7 +168,7 @@ Tao Xiang, Shaogang Gong, Yongxin Yang, Timothy M. Hospedales* - [pdf](https://g
 - Modulating and attending the source image during encoding improves Multimodal Translation 
 - Multi-level Classification: Implications for Human-like Generalization - *Joshua Peterson, Paul Soulos, Aida Nematzadeh, Tom Griffiths* - [pdf](https://github.com/nips2017vigil/nips2017vigil.github.io/raw/master/papers/2017/multi-level_classification.pdf)
 - Relationships from Entity Stream - *Martin Andrews, Sam Witteveen*
-- Retweet Wars: Tweet Popularity Prediction via Multimodal Regression - *Ke Wang, Mohit Bansal, Jan-Michael Frahm*
+- Retweet Wars: Tweet Popularity Prediction via Multimodal Regression - *Ke Wang, Mohit Bansal, Jan-Michael Frahm* - [pdf](https://github.com/nips2017vigil/nips2017vigil.github.io/raw/master/papers/2017/retweet_wars.pdf)
 - Semantic Image Retrieval via Active Grounding of Visual Situations - *Max H. Quinn, Erik Conser, Jordan M. Witte, Melanie Mitchell*
 - Video SemNet: Memory-Augmented Video Semantic Network - *Prashanth Vijayaraghavan, Deb Roy*
 - Vision-and-Language Navigation: Interpreting visually-grounded navigation instructions in real environments - *Peter Anderson, Qi Wu, Damien Teney, Jake Bruce, Mark Johnson, Niko Sünderhauf, Ian Reid, Stephen Gould, Anton van den Hengel*
