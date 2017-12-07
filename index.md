@@ -20,7 +20,7 @@ One appealing hypothesis is that language is tied to how we interact with the en
 - 09:30 AM : Connecting high-level semantics with low-level vision. *Sanja Fidler*
 - 10:15 AM : Coffee Break & Poster Session
 - 10:40 AM : The interface between vision and language in the human brain *Jack Gallant*
-- 11:25 AM : Towards Embodied Question Answering. *Devi Parikh*
+- 11:25 AM : Embodied Question Answering. *Devi Parikh*
 - 12:10 AM : LUNCH
 - 02:00 PM : Dialogue systems and RL: interconnecting language, vision and rewards. *Olivier Pietquin*
 - 02:45 PM : Spotlights 
