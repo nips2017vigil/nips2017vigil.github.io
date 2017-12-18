@@ -82,7 +82,8 @@ One appealing hypothesis is that language is tied to how we interact with the en
         <th class='speaker-bio'>
         <b>Raymond J. Mooney</b> is a Professor of Computer Science at The University of Texas at Austin and leads the Machine Learning Research Group within UT Artificial Intelligence Laboratory.
         His current focus is on natural language processing / computational linguistics.
-        <a href='https://www.cs.utexas.edu/~mooney/'>[Webpage]</a>
+        <a href='https://www.cs.utexas.edu/~mooney/'>[Webpage]</a> - 
+        <a href='https://drive.google.com/file/d/1RG7Nbkj1u6ODokAYr51xjSa7-2X05tMw/view?usp=drive_web'>[slides]</a>
         </th>
     </tr>
     <tr>
@@ -117,7 +118,8 @@ One appealing hypothesis is that language is tied to how we interact with the en
         <th class='speaker-bio'>
         <b>Chen Yu</b> is a Professor at Computational Cognition and Learning Lab at the University of Indiana.
         His research interests focus on understanding human development and learning as the interdependence and integration of perceptual, attention, motor, cognitive, language and social processes.
-        <a href='http://www.indiana.edu/~dll/'>[Webpage]</a>
+        <a href='http://www.indiana.edu/~dll/'>[Webpage]</a> - 
+        <a href='https://github.com/nips2017vigil/nips2017vigil.github.io/raw/master/slides/chen_yu.pdf'>[slides]</a>
         </th>
     </tr> 
 </table>
