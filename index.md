@@ -3,6 +3,9 @@ layout: default
 description: ''
 ---
 
+## ViGIL 2.0
+The website is available here : https://nips2017vigil.github.io/
+
 ## Introduction
 
 <div style="text-align: justify">
