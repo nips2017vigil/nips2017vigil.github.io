@@ -4,7 +4,7 @@ description: ''
 ---
 
 ## ViGIL 2.0
-The website is available here : https://nips2017vigil.github.io/
+The website is available here : <a href='https://nips2017vigil.github.io/'>[Vigil2018]</a> 
 
 ## Introduction
 
