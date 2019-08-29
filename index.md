@@ -3,8 +3,10 @@ layout: default
 description: ''
 ---
 
-## ViGIL 2.0
-The website is available here : <a href='https://nips2018vigil.github.io/'>[Vigil2018]</a> 
+## Vigil Sessions 
+2019: <a href='https://vigilworkshop.github.io/'>[Vigil2019]</a> 
+2018: <a href='https://nips2018vigil.github.io/'>[Vigil2018]</a> 
+
 
 ## Introduction
 
